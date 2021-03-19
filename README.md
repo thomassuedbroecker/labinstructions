@@ -1,4 +1,4 @@
-# labinstructions
+# Lab instructions
 
 <!-- 1. [Preparation for the "Deploy single service" workhop](single.md) -->
 
