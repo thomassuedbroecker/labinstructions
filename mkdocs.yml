@@ -1,0 +1,100 @@
+# Project information
+site_name: Lab instructions
+site_url: https://thomassuedbroecker.github.io/labinstructions/
+site_author: Thomas Südbröcker
+
+# Repository
+repo_name: Lab instructions
+repo_url: https://github.com/thomassuedbroecker/labinstructions/
+edit_uri: edit/master/documentation
+docs_dir: documentation
+
+# Navigation
+nav:
+  - Introduction: README.md
+  - Setup prerequisites: prerequisites/prerequisites.md  
+  - Detailed setup steps:
+    - Create data entries: steps/1-create-data.md
+    - Get data entries: steps/2-get-data.md.md
+    - Search for entries: steps/3-search-data-entries.md
+    - Setup dashboard UI: steps/4-setup-UI.md
+    - Add input form: steps/5-add-input-form.md
+    - Add table: steps/6-add-table-to-ui.md
+    - Add example search: steps/7-add-search-to-ui.md
+    - Export flow: steps/8-export.md
+  - Import flow:
+    - Setup dashbord: import/0-install-nodes.md 
+    - Import flow: import/1-import.md
+    - Configure Cloudant search: import/2-configure-cloudant.md
+  - Tips: tips/tips.md
+  - References:
+    - Node-RED: https://nodered.org
+    - Setup Node-RED on IBM Cloud: https://suedbroecker.net/2020/03/09/a-short-introduction-of-the-node-red-starter-kit-on-ibm-cloud-for-hackathons/
+    - Handle CORS in your Node-RED instance on IBM Cloud: https://suedbroecker.net/2019/03/13/cors-and-node-red-using-a-simple-forward-server/
+    - REST endpoints, authentication to external API, extract data from API, customize data and CRUD: https://suedbroecker.net/2020/03/26/a-node-red-twitter-follower-flow/
+
+## DO NOT CHANGE BELOW THIS LINE
+
+# Copyright
+# TBD
+
+# Theme
+theme:
+  name: material
+  font:
+    text: IBM Plex Sans
+    code: IBM Plex Mono
+  icon:
+    logo: material/library
+  features:
+    # - navigation.tabs
+    - navigation.instant
+    - navigation.expand
+  palette:
+    scheme: default
+    primary: blue
+    accent: blue
+
+# Plugins
+plugins:
+  - search
+
+# Customization
+# TBD
+
+# Extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      check_paths: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
