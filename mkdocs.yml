@@ -12,13 +12,10 @@ docs_dir: documentation
 # Navigation
 nav:
   - Overview: README.md
-  - Setup prerequisites: security.md  
+  - Security workshop: security.md  
   - References:
-    - Node-RED: https://nodered.org
-    - Setup Node-RED on IBM Cloud: https://suedbroecker.net/2020/03/09/a-short-introduction-of-the-node-red-starter-kit-on-ibm-cloud-for-hackathons/
-    - Handle CORS in your Node-RED instance on IBM Cloud: https://suedbroecker.net/2019/03/13/cors-and-node-red-using-a-simple-forward-server/
-    - REST endpoints, authentication to external API, extract data from API, customize data and CRUD: https://suedbroecker.net/2020/03/26/a-node-red-twitter-follower-flow/
-
+    - Security workshop on IBM Developer: https://developer.ibm.com/languages/java/tutorials/secure-your-java-microservices-application-workshop/
+    
 ## DO NOT CHANGE BELOW THIS LINE
 
 # Copyright
