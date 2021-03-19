@@ -1,3 +1,4 @@
+![](images/sec.jpg)
 # Get started with Security for your Java Microservices
 
 Here you find additional URLs and keys you need in your workshop.
