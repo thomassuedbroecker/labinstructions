@@ -12,9 +12,8 @@ docs_dir: documentation
 # Navigation
 nav:
   - Overview: README.md
-  - Security workshop: security.md  
   - References:
-    - Security workshop on IBM Developer: https://developer.ibm.com/languages/java/tutorials/secure-your-java-microservices-application-workshop/
+    - Link to security workshop material on IBM Developer: https://developer.ibm.com/languages/java/tutorials/secure-your-java-microservices-application-workshop/
     
 ## DO NOT CHANGE BELOW THIS LINE
 
