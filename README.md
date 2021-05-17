@@ -1,3 +1,3 @@
 ### Overview
 
-<https://thomassuedbroecker.github.io/labinstructions/>
+Click <https://thomassuedbroecker.github.io/labinstructions/>

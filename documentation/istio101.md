@@ -3,7 +3,7 @@
 # Meetup
 
 ```
-Date:     Wednesday, February 19, 2020
+Date:     Wednesday, February 19, 20XX
 Time:     18:00 - 20:00 (6:00 PM to 8:00 PM)
 Location: TBD
 ```
