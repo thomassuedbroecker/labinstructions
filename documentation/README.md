@@ -2,41 +2,40 @@
 
 This documentation contains additional instructions for:
 
-**23.03.2021 at WeAreDevelopers Live** - [Workshop registration link](https://www.wearedevelopers.com/sessions/get-started-with-securing-your-cloud-native-java-microservices-applications)
+**19.05.2021 at IBM Developer Crowdcast Live "Platform Security"** - [Workshop registration link](https://www.crowdcast.io/e/app-sec-dev-learning-journey/register?session=6)
 
 ![](images/sec.jpg)
 
 ---
 
-# Get started with Security for your Java Microservices
+# "Get started with Security for your Java Microservices" hands-on
 
-Here you find additional URLs and keys you need in your workshop.
+Here you find additional `URLs` and `keys` you need in your workshop.
 
 ---
 
 ### 1. Ensure you have a registered for a **free IBM Cloud Lite Account**:
   
-  * In the [workshop documentation](https://ibm.github.io/cloud-native-starter-security-workshop/pre-work/CLOUD_ACCOUNT/) is written you need a link and a key. 
+ Use this link to register for an `IBM Cloud Account`:
 
-  * Use this link to register for an IBM Cloud Account:
+  [Free IBM Cloud Lite Account registration](https://ibm.biz/sec-journey-register-cloud-account)
 
-    * [Free IBM Cloud Lite Account registration](http://ibm.biz/ibmcloudaccount4workshop)
+  In the [workshop documentation](https://ibm.github.io/cloud-native-starter-security-workshop/pre-work/CLOUD_ACCOUNT/) is written you need a link and a key. 
 
 ---
 
-### 2. Assign yourself a pre-provisioned Kubernetes cluster:
+### 2. Needed information to assign yourself a pre-provisioned IBM Cloud Kubernetes cluster:
 
-  * In the [workshop documentation](https://ibm.github.io/cloud-native-starter-security-workshop/pre-work/CLOUD_ACCOUNT/) is written you need a link and a key. 
+  In the [workshop documentation](https://ibm.github.io/cloud-native-starter-security-workshop/pre-work/CLOUD_ACCOUNT/) is written you need a `link` and a `key`. 
   
-  * Link/Key:
+  **Here they are:**
 
-    * Link to request a cluster: [https://TBD.net/](https://appsecurity-b.mybluemix.net/)
-    * Needed labkey: **TBD**
+  * Link to request a cluster: [https://TBD.net/](https://TBD.mybluemix.net/)
+  * Needed labkey: **TBD**
 
 ---
 
 ### 3. Back to the workshop instructions
 
-  * [https://ibm.github.io/cloud-native-starter-security-workshop/](https://ibm.github.io/cloud-native-starter-security-workshop/)
-
+  [https://ibm.github.io/cloud-native-starter-security-workshop/](https://ibm.github.io/cloud-native-starter-security-workshop/)
 ---
