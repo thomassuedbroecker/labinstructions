@@ -30,8 +30,10 @@ Here you find additional `URLs` and `keys` you need in your workshop.
   
   **Here they are:**
 
-  * Link to request a cluster: [https://TBD.net/](https://TBD.mybluemix.net/)
-  * Needed labkey: **TBD**
+  > Don't forget you need an IBM Cloud Account to request the cluster!
+
+  * **Link** to request a cluster: [https://application-security-series.mybluemix.net](https://application-security-series.mybluemix.net)
+  * **Key**: `oslab`
 
 ---
 
