@@ -17,10 +17,10 @@ Here you find additional `URLs` and `keys` you need in your workshop.
 
   In the [workshop documentation](https://ibm.github.io/cloud-native-starter-security-workshop/pre-work/CLOUD_ACCOUNT/) is written you need a `link` and a `key`. 
   
-  **Here they are:**
+  > Don't forget you need an IBM Cloud Account to request the cluster!
 
-  * Link to request a cluster: [https://TBD.net/](https://TBD.mybluemix.net/)
-  * Needed labkey: **TBD**
+  * Link to request a cluster: [https://application-security-series.mybluemix.net](https://application-security-series.mybluemix.net)
+  * Needed labkey: `oslab`
 
 ### 3. Back to the workshop instructions
 
