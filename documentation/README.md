@@ -14,13 +14,11 @@ Here you find additional `URLs` and `keys` you need in your workshop.
 
 ---
 
-### 1. Ensure you have a registered for a **free IBM Cloud Lite Account**:
+### 1. Ensure you have registered for a **free IBM Cloud Lite Account**:
   
  Use this link to register for an `IBM Cloud Account`:
 
-  [Free IBM Cloud Lite Account registration](https://ibm.biz/sec-journey-register-cloud-account)
-
-  In the [workshop documentation](https://ibm.github.io/cloud-native-starter-security-workshop/pre-work/CLOUD_ACCOUNT/) is written you need a link and a key. 
+ **[Free IBM Cloud Lite Account registration](https://ibm.biz/sec-journey-register-cloud-account)**
 
 ---
 
@@ -30,14 +28,14 @@ Here you find additional `URLs` and `keys` you need in your workshop.
   
   **Here they are:**
 
-  > Don't forget you need an IBM Cloud Account to request the cluster!
+  > Don't forget you need an **IBM Cloud Account** to request the cluster!
 
   * **Link** to request a cluster: [https://application-security-series.mybluemix.net](https://application-security-series.mybluemix.net)
   * **Key**: `oslab`
 
 ---
 
-### 3. Back to the workshop instructions
+### 3. Workshop instructions
 
-  [https://ibm.github.io/cloud-native-starter-security-workshop/](https://ibm.github.io/cloud-native-starter-security-workshop/)
+  Link: [https://ibm.github.io/cloud-native-starter-security-workshop/](https://ibm.github.io/cloud-native-starter-security-workshop/)
 ---

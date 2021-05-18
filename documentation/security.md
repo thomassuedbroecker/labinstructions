@@ -4,7 +4,7 @@
 
 Here you find additional `URLs` and `keys` you need in your workshop.
 
-### 1. Ensure you have a registered for a **free IBM Cloud Lite Account**:
+### 1. Ensure you have registered for a **free IBM Cloud Lite Account**:
   
   Use this link to register for an `IBM Cloud Account`:
 
